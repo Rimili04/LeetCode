@@ -72,4 +72,5 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rimili04/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Rimili04/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Rimili04/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
