@@ -67,4 +67,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Rimili04/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 <!---LeetCode Topics End-->
