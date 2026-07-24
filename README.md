@@ -52,6 +52,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -65,6 +66,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +204,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
