@@ -10,6 +10,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -53,6 +54,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
