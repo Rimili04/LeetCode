@@ -37,6 +37,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -62,6 +63,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -127,4 +130,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 <!---LeetCode Topics End-->
