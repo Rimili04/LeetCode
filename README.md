@@ -14,6 +14,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Rimili04/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Rimili04/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
