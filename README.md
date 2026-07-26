@@ -120,6 +120,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Backtracking
@@ -200,6 +202,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Depth-First Search
