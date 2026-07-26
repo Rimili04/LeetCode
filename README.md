@@ -7,6 +7,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
@@ -157,6 +158,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0020-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Rimili04/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
@@ -193,6 +195,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Backtracking
