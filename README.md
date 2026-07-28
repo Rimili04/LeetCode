@@ -144,6 +144,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0595-big-countries](https://github.com/Rimili04/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Rimili04/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Rimili04/LeetCode/tree/main/0601-human-traffic-of-stadium/) | Hard |
+| [3564-seasonal-sales-analysis](https://github.com/Rimili04/LeetCode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
