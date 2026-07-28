@@ -76,6 +76,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Rimili04/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Two Pointers
