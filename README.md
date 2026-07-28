@@ -80,6 +80,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rimili04/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rimili04/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rimili04/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Two Pointers
@@ -188,6 +189,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rimili04/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Greedy
