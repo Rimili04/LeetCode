@@ -38,6 +38,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rimili04/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Two Pointers
@@ -90,6 +92,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +119,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rimili04/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rimili04/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
