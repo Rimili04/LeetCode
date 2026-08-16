@@ -24,6 +24,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -178,6 +179,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0020-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Rimili04/LeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
