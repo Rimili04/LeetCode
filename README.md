@@ -15,6 +15,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -28,6 +29,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -306,6 +309,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
