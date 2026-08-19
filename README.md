@@ -82,6 +82,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -116,6 +117,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rimili04/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -212,6 +215,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0954-array-of-doubled-pairs](https://github.com/Rimili04/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
