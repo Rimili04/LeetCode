@@ -16,6 +16,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -189,6 +190,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
+| [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rimili04/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rimili04/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rimili04/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -216,6 +218,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
