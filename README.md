@@ -204,6 +204,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rimili04/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rimili04/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rimili04/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -305,6 +306,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rimili04/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
