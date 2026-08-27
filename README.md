@@ -47,6 +47,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -65,6 +66,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0001-two-sum](https://github.com/Rimili04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
