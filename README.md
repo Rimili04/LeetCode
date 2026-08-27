@@ -7,6 +7,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Rimili04/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
