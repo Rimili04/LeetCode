@@ -129,6 +129,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rimili04/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rimili04/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rimili04/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +240,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
