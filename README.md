@@ -8,6 +8,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Rimili04/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -74,6 +75,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Rimili04/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -198,6 +200,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Simulation
