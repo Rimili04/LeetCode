@@ -30,6 +30,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rimili04/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -70,6 +71,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -245,6 +247,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Rimili04/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
