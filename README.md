@@ -24,6 +24,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rimili04/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rimili04/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rimili04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -42,6 +43,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
