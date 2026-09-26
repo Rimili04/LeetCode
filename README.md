@@ -110,6 +110,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rimili04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -156,6 +157,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rimili04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -243,6 +245,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rimili04/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rimili04/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
