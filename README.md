@@ -36,6 +36,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rimili04/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rimili04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -242,6 +243,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rimili04/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
@@ -278,6 +280,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Rimili04/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rimili04/LeetCode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -301,6 +304,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Rimili04/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Backtracking
@@ -427,4 +431,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
