@@ -141,6 +141,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rimili04/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -395,6 +396,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rimili04/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rimili04/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Rimili04/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
