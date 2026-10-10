@@ -61,6 +61,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rimili04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
@@ -115,6 +116,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rimili04/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -180,6 +182,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0969-pancake-sorting](https://github.com/Rimili04/LeetCode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rimili04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -288,6 +291,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
@@ -348,6 +352,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
