@@ -316,6 +316,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- | ------- |
 | [0046-permutations](https://github.com/Rimili04/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/Rimili04/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
