@@ -87,6 +87,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0049-group-anagrams](https://github.com/Rimili04/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/Rimili04/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -137,6 +138,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
