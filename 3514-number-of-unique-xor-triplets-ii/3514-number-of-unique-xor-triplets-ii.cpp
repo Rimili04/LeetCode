@@ -1,27 +1,31 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const int MAXX = 2048; // nums[i] <= 1500 < 2^11
+        int n = nums.size();
+        vector<bool> seen(2048, false);
+        vector<bool> possible(2048, false);
 
-        vector<vector<char>> dp(4, vector<char>(MAXX, 0));
-        dp[0][0] = 1;
+        for (int x : nums)
+            seen[x] = true;
 
-        for (int v : nums) {
-            for (int k = 2; k >= 0; --k) {
-                for (int x = 0; x < MAXX; ++x) {
-                    if (dp[k][x]) {
-                        dp[k + 1][x ^ v] = 1;
-                    }
-                }
+        for (int x = 0; x < 2048; x++) {
+            if (!seen[x]) continue;
+
+            for (int y = 0; y < 2048; y++) {
+                if (seen[y])
+                    possible[x ^ y] = true;
             }
         }
 
-        int ans = 0;
-        for (int x = 0; x < MAXX; ++x) {
-            if (dp[1][x] || dp[3][x])
-                ans++;
+        vector<bool> result(2048, false);
+
+        for (int x = 0; x < 2048; x++) {
+            if (!possible[x]) continue;
+
+            for (int y : nums)
+                result[x ^ y] = true;
         }
 
-        return ans;
+        return count(result.begin(), result.end(), true);
     }
 };
