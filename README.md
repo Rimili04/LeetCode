@@ -4,8 +4,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Rimili04/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
@@ -29,8 +29,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rimili04/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rimili04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/Rimili04/LeetCode/tree/main/0072-edit-distance/) | Medium |
@@ -46,17 +46,18 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -66,17 +67,18 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rimili04/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Rimili04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
@@ -135,8 +137,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rimili04/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
@@ -153,8 +155,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Rimili04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rimili04/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -173,13 +175,13 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Rimili04/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -197,28 +199,28 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rimili04/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rimili04/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rimili04/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Rimili04/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Rimili04/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
@@ -228,23 +230,23 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0601-human-traffic-of-stadium](https://github.com/Rimili04/LeetCode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [3564-seasonal-sales-analysis](https://github.com/Rimili04/LeetCode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/Rimili04/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -272,8 +274,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rimili04/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rimili04/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -281,8 +283,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/Rimili04/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
@@ -291,8 +293,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Rimili04/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -306,8 +308,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rimili04/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Rimili04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Rimili04/LeetCode/tree/main/0071-simplify-path/) | Medium |
@@ -324,8 +326,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0046-permutations](https://github.com/Rimili04/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Rimili04/LeetCode/tree/main/0077-combinations/) | Medium |
@@ -333,56 +335,58 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Rimili04/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rimili04/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rimili04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rimili04/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0962-maximum-width-ramp](https://github.com/Rimili04/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rimili04/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0978-longest-turbulent-subarray](https://github.com/Rimili04/LeetCode/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -391,75 +395,76 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rimili04/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sweep Line
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rimili04/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rimili04/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Rimili04/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Iterator
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rimili04/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Rimili04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rimili04/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Z Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Boyer–Moore String-Search Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rimili04/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0678-valid-parenthesis-string](https://github.com/Rimili04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Range Minimum/Maximum Query
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rimili04/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
