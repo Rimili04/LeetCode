@@ -88,6 +88,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rimili04/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Rimili04/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Rimili04/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -233,6 +234,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Rimili04/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/Rimili04/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -240,6 +242,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rimili04/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
