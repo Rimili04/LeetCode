@@ -22,6 +22,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rimili04/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Rimili04/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -270,6 +271,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0966-vowel-spellchecker](https://github.com/Rimili04/LeetCode/tree/main/0966-vowel-spellchecker/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Rimili04/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Rimili04/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rimili04/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rimili04/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rimili04/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
