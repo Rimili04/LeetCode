@@ -118,6 +118,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0986-interval-list-intersections](https://github.com/Rimili04/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Rimili04/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -242,6 +243,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0835-image-overlap](https://github.com/Rimili04/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 ## Simulation
 |  |
@@ -360,15 +362,18 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rimili04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Monotonic Stack
 |  |
