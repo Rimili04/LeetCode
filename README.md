@@ -60,6 +60,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rimili04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rimili04/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -84,6 +85,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0001-two-sum](https://github.com/Rimili04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rimili04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rimili04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Rimili04/LeetCode/tree/main/0046-permutations/) | Medium |
