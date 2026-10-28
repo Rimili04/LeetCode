@@ -173,6 +173,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rimili04/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Rimili04/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Rimili04/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -372,6 +373,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rimili04/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Rimili04/LeetCode/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rimili04/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -382,6 +384,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rimili04/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Rimili04/LeetCode/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
 | [0959-regions-cut-by-slashes](https://github.com/Rimili04/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -503,4 +506,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rimili04/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
