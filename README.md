@@ -47,6 +47,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rimili04/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rimili04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rimili04/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +144,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [3524-find-x-value-of-array-i](https://github.com/Rimili04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rimili04/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rimili04/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rimili04/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
@@ -249,6 +251,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1254-number-of-closed-islands](https://github.com/Rimili04/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rimili04/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rimili04/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -308,6 +311,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rimili04/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rimili04/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rimili04/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Rimili04/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
