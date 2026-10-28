@@ -100,6 +100,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rimili04/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rimili04/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0130-surrounded-regions](https://github.com/Rimili04/LeetCode/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/Rimili04/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rimili04/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rimili04/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -310,6 +311,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rimili04/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0137-single-number-ii](https://github.com/Rimili04/LeetCode/tree/master/0137-single-number-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/Rimili04/LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rimili04/LeetCode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Rimili04/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
