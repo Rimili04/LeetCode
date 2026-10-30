@@ -88,6 +88,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0027-remove-element](https://github.com/Rimili04/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rimili04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rimili04/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Rimili04/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rimili04/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Rimili04/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rimili04/LeetCode/tree/main/0047-permutations-ii/) | Medium |
@@ -173,6 +174,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0001-two-sum](https://github.com/Rimili04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rimili04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rimili04/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/Rimili04/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rimili04/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Rimili04/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -247,6 +249,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rimili04/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rimili04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rimili04/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Rimili04/LeetCode/tree/main/0079-word-search/) | Medium |
