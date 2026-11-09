@@ -131,6 +131,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [1406-stone-game-iii](https://github.com/Rimili04/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rimili04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Rimili04/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rimili04/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Rimili04/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rimili04/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -270,6 +271,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 | [0946-validate-stack-sequences](https://github.com/Rimili04/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rimili04/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rimili04/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rimili04/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rimili04/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String
 |  |
@@ -420,6 +422,7 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rimili04/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rimili04/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rimili04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 |  |
@@ -521,4 +524,8 @@ C++ solutions to LeetCode problems with clean, optimized, and well-structured im
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rimili04/LeetCode/tree/master/0133-clone-graph) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rimili04/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
